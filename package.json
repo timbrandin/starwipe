@@ -1,0 +1,26 @@
+{
+  "name": "StarWipe",
+  "version": "0.1.0",
+  "description": "Swipe and screen transitions for React and FlowRouter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timbrandin/starwipe"
+  },
+  "keywords": [
+    "react",
+    "flowrouter",
+    "swipe",
+    "animations",
+    "transitions"
+  ],
+  "author": "Tim Brandin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timbrandin/starwipe/issues"
+  },
+  "homepage": "https://github.com/timbrandin/starwipe"
+}
